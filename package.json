@@ -1,0 +1,22 @@
+{
+  "name": "html5-canvas",
+  "version": "1.0.0",
+  "description": "A beautiful constellation effect on mouseover using vanilla Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krithikagoyal/Constellation-effect.git"
+  },
+  "author": "Krithika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krithikagoyal/Constellation-effect/issues"
+  },
+  "homepage": "https://github.com/krithikagoyal/constellation",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
